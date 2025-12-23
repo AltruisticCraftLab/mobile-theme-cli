@@ -1,9 +1,8 @@
 {
   "name": "mobile-theme-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "module": "index.ts",
   "type": "module",
-  "private": true,
   "bin": {
     "theme": "dist/mobile-theme-cli.js"
   },
